@@ -1,0 +1,4 @@
+Codename: stable
+Components: main
+Architectures: amd64 arm64
+SignWith: 81705A481B958415
