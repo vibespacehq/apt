@@ -1,16 +1,15 @@
 Package: vibespace
-Version: 0.3.0
+Version: 0.4.0
 Architecture: amd64
-License: Apache-2.0
 Maintainer: Yagiz Dagabak <yagizdagabak@gmail.com>
-Installed-Size: 73394
+Installed-Size: 75879
 Homepage: https://github.com/vibespacehq/vibespace
 Priority: optional
 Section: 
-Filename: pool/main/v/vibespace/vibespace_0.3.0_amd64.deb
-Size: 30174968
-SHA256: 9d9f2ca20f3cc21232118a2479479d094f24a608cad6e2619ff1e02248f456e1
-SHA1: d9522da2774605fbc30125be656a0a2a720d9b86
-MD5sum: 7a1a779ef63cb5fa11298c7a8ebce8eb
+Filename: pool/main/v/vibespace/vibespace_0.4.0_amd64.deb
+Size: 31205440
+SHA256: 2327ae17100c7676da9a6090e0ade7031e98f70f7304b70a4834a43018c02dc8
+SHA1: 944d3b804d5166e391948ff38102f6cff0dc5c8a
+MD5sum: 1993edc9b8ad1236d9d7e1ede884fd61
 Description: Multi-agent AI stateful runtime environments
 
