@@ -1,15 +1,15 @@
 Package: vibespace
-Version: 0.5.3
+Version: 0.5.4
 Architecture: arm64
 Maintainer: Yagiz Dagabak <yagizdagabak@gmail.com>
 Installed-Size: 72068
 Homepage: https://github.com/vibespacehq/vibespace
 Priority: optional
 Section: 
-Filename: pool/main/v/vibespace/vibespace_0.5.3_arm64.deb
-Size: 28756564
-SHA256: 4a5fd6ba79a0827d931e37252db9509a6a903c1cced26132b06734d8031a5355
-SHA1: 005565ce76f6a41fb193bda3da417c8de33c2d75
-MD5sum: 83e210ddd43d34488e17f4dcd833d0ec
+Filename: pool/main/v/vibespace/vibespace_0.5.4_arm64.deb
+Size: 28757272
+SHA256: f80087857f6b92b5529fdd892c3442dbf9c5b4eef69792a4f5d3a892599c1d66
+SHA1: 8fab4188eb86d05d1245e4fdce8c7c82886a2520
+MD5sum: bfd01714c1dc0de3c5e21472c223a911
 Description: Multi-agent AI stateful runtime environments
 
